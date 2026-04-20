@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/pantry-app/static/js/main.9d68bd15.js",
+    "main.js": "/pantry-app/static/js/main.faf55e6c.js",
     "index.html": "/pantry-app/index.html",
-    "main.9d68bd15.js.map": "/pantry-app/static/js/main.9d68bd15.js.map"
+    "main.faf55e6c.js.map": "/pantry-app/static/js/main.faf55e6c.js.map"
   },
   "entrypoints": [
-    "static/js/main.9d68bd15.js"
+    "static/js/main.faf55e6c.js"
   ]
 }
